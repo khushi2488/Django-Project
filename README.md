@@ -10,13 +10,13 @@ Payment Integration: PayPal API
 Deployment: AWS Elastic Beanstalk, GitHub  
 Others: SSL, Custom Domain, Email Verification  
 
-✨ Key Features
-✅ Product variants: size, color, and grouped cart items
-✅ User authentication with email verification & password reset
-✅ Shopping cart with add/remove/edit functionality
-✅ Order management and payment processing
-✅ Product search, reviews, and star rating system
-✅ User dashboard with order tracking and profile updates
-✅ Secure deployment on AWS with SSL and custom domain
-✅ Admin panel for managing users, orders, products
+✨ Key Features    
+✅ Product variants: size, color, and grouped cart items  
+✅ User authentication with email verification & password reset  
+✅ Shopping cart with add/remove/edit functionality  
+✅ Order management and payment processing  
+✅ Product search, reviews, and star rating system  
+✅ User dashboard with order tracking and profile updates  
+✅ Secure deployment on AWS with SSL and custom domain  
+✅ Admin panel for managing users, orders, products  
 
