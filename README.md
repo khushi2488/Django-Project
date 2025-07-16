@@ -2,13 +2,13 @@
 GreatKart is a scalable and feature-rich e-commerce web application built with Django and Django REST Framework. It supports dynamic product variants (such as size and color), secure user authentication, cart and order management, product reviews, and seamless checkout with PayPal integration.
 
 This project simulates a real-world online store with modern e-commerce features and is fully deployable on AWS with SSL and custom domain support.
-🔧 Tech Stack
-Backend: Django, Django REST Framework
-Frontend: HTML, CSS, Bootstrap (custom templates)
-Database: SQLite (can be upgraded to PostgreSQL)
-Payment Integration: PayPal API
-Deployment: AWS Elastic Beanstalk, GitHub
-Others: SSL, Custom Domain, Email Verification
+🔧 Tech Stack  
+Backend: Django, Django REST Framework  
+Frontend: HTML, CSS, Bootstrap (custom templates)  
+Database: SQLite (can be upgraded to PostgreSQL)  
+Payment Integration: PayPal API  
+Deployment: AWS Elastic Beanstalk, GitHub  
+Others: SSL, Custom Domain, Email Verification  
 
 ✨ Key Features
 ✅ Product variants: size, color, and grouped cart items
